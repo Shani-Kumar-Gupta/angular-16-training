@@ -3,3 +3,6 @@
 3. What is Single Page Application?
 4. Angular CLI (npm install -g @angular/cli@latest)
 5. Create Angular Project using CLI (ng new project-name)
+6. What is TypeScript? Why TypeScript?
+
+7. Component (key feature in Angular)

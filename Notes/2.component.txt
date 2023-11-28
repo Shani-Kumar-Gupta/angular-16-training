@@ -1,0 +1,6 @@
+/* COMPONENT in Angular */
+
+- A component is a piece of user interface.
+- Every component has it's own template and logic.
+- It's a main building block of the application.
+- We can make complex UI components combinding the independent components.

@@ -2,6 +2,7 @@
   - Angular is one of the most popular JavaScript framework for building client side applications.
   - Angular is a development platform for building dynamic and a single page client side application.
   - Angular is a JavaScript framework which allows us to create Single Page Applicatoions.
+  - Angular is a Component-based JavaScript framework used to build dynamic and a single page client side application.
 
 2. Framework:
   - A framework is like a platform for developing software applications.
