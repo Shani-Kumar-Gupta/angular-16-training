@@ -6,3 +6,5 @@
 6. What is TypeScript? Why TypeScript?
 
 7. Component (key feature in Angular)
+8. @Component({}) decorator
+9. View Template of Component
