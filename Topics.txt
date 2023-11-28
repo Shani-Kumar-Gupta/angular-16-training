@@ -1,3 +1,5 @@
 1. What is Angular?
 2. What is Framework?
 3. What is Single Page Application?
+4. Angular CLI (npm install -g @angular/cli@latest)
+5. Create Angular Project using CLI (ng new project-name)
