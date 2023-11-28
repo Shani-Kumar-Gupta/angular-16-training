@@ -1,0 +1,13 @@
+1. Angular:
+  - Angular is one of the most popular JavaScript framework for building client side applications.
+  - Angular is a development platform for building dynamic and a single page client side application.
+  - Angular is a JavaScript framework which allows us to create Single Page Applicatoions.
+
+2. Framework:
+  - A framework is like a platform for developing software applications.
+  - A framework can have predefined classes and functions that can be re-used to add several functionalities.
+  - A framework is a collection of pre-defined classes and functions which provides APIs for performing different operations when used in application.
+
+3. Single Page Application:
+  - A single page application is a web application, which has only one HTML page. When we navigate around, only the content of that HTML page changes. The page itself never changes.
+  
