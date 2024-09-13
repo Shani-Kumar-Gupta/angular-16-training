@@ -6,5 +6,7 @@
 6. What is TypeScript? Do browser understand TypeScript and Why TypeScript?
 
 7. Component (key feature in Angular)
-8. @Component({}) decorator
+8. @Component({}) decorator - Mention all the necessary metadata inside the decorator object
 9. View Template of Component
+  - The view template of a Component is a form of HTML that tells Angular how to render a Component.
+10. Styling view template

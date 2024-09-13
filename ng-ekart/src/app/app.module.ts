@@ -7,14 +7,18 @@ import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
+    // Register Components, Directives
     AppComponent,
     HeaderComponent,
     FooterComponent
   ],
   imports: [
+    // Register Modules
     BrowserModule
   ],
-  providers: [],
+  providers: [
+    // Register Services
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
