@@ -2,8 +2,10 @@ import { Component } from "@angular/core";
 
 @Component({
   selector: 'app-header',
-  // template: '<h2>eKart Header</h2>'
-  templateUrl: './header.component.html'
+  templateUrl: './header.component.html',
+  // template: '<h2>eKart Header</h2>',
+  styles: [],
+  styleUrls: []
 })
 export class HeaderComponent {
 
