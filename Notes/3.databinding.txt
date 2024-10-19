@@ -1,0 +1,18 @@
+Data Binding:
+  It's a very important concept in Angular which allow to communicate between the component class and view template & vise versa.
+  Flow of data from component class to view template and view template to component class is known as Data Binding.
+
+Types of Data Binding:
+  - One way data Binding (Data flow from component to class view template or class view template to component class)
+    ---------------------- Component Class to View Template --------------------------
+                          - String Interpolation {{ data }} 
+                          - Property Binding [property]="data" 
+    ----------------------------------------------------------------------------------
+    ---------------------- View Template to Class Component --------------------------
+                          - Event Binding: (data)="expression"
+    ----------------------------------------------------------------------------------
+  - Two way data Binding (Data flow from component class to view template and view template to component class.)
+    [(ngModel)]="data"
+
+  - Property Binding - []
+  - Event Binding - ()

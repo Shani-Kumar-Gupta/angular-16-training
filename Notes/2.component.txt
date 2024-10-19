@@ -7,3 +7,9 @@ Angular is a component based JavaScript framework for building client side appli
 - We can make complex UI components combinding the independent components.
 
 The view template of a component is a form of HTML that tells Angular how to render a component.
+
+Types of Component Selector:
+ - HTML Tag: "app-nav"
+ - HTML Attribute: "[app-nav]"
+ - CSS Class: ".app-nav"
+ - HTML ID Attribute: "#app-nav"
