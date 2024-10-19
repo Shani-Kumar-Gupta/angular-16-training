@@ -1,6 +1,9 @@
 /* COMPONENT in Angular */
+Angular is a component based JavaScript framework for building client side application.
 
 - A component is a piece of user interface.
 - Every component has it's own template and logic.
 - It's a main building block of the application.
 - We can make complex UI components combinding the independent components.
+
+The view template of a component is a form of HTML that tells Angular how to render a component.

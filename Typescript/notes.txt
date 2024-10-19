@@ -1,7 +1,7 @@
 Advantages of TypeScript over JavaScript:
 -- TypeScript is a superset of JavaScript.
 -- TypeScript has additional features, which do not exists in current version of JavaScript supported by most browsers.
--- TypeScript is strongly (static) typed. But JavaScript is du=ynamically typed.
+-- TypeScript is strongly (static) typed. But JavaScript is dynamically typed.
 -- User has to explicitly specify the type of the variables.
 -- TypeScript has object oriented features that we do not have in JavaScript yet.
 -- With TypeScript, we can catch errors at compile time instead of run time.
