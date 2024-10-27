@@ -14,5 +14,5 @@ Types of Data Binding:
   - Two way data Binding (Data flow from component class to view template and view template to component class.)
     [(ngModel)]="data"
 
-  - Property Binding - []
+  - Property Binding - [] (Let us bind a property of a dom object, show or hide a DOM element or manipulate the DOM in some other ways)
   - Event Binding - ()
