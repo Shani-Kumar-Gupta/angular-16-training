@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class ProductListComponent {
   name: string = 'Angular';
+  addToCart: number = 0;
   productDetails: {
     productName: string;
     productPrice: number;
@@ -29,5 +30,19 @@ export class ProductListComponent {
       (this.productDetails.productPrice * this.productDetails.productDiscount) /
         100
     );
+  }
+
+  onNameChange(event: any) {
+    this.name = event.target.value;
+  }
+
+  increaseCartValue() {
+    if(this.addToCart < this.productDetails.inStock)
+      this.addToCart = this.addToCart + 1;
+  }
+  
+  decreaseCartValue() {
+    if(this.addToCart > 0)
+      this.addToCart = this.addToCart - 1;
   }
 }
