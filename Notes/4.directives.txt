@@ -1,0 +1,10 @@
+Directives in Angular:
+  - A Directive is an instructions to the DOM
+  - Manipulate the DOM
+  - Change Appearance/Behaviour
+  - Add/Remove DOM element
+
+Directives Types:
+  - Component Directive: Component Directive is the Angular Component. It is a directive with a template.
+  - Attribute Directive: Attribute directive is used to change the appearance or behaviour of a DOM element. eg. ngStyle, ngClass
+  - Structural Directive: Structural directive is used to add or remove a DOM element on the webpage. eg. ngIf, ngFor, ngSwitch
