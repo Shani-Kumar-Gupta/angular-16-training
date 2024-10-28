@@ -1,0 +1,14 @@
+@Input and Custom Property Binding:
+  - What if we want to communicate between to Components?
+  - Passing data from Parent Component to Child Component
+
+  product-list (Parent Component) ------- Passing Data --------> product (Child Component)
+  :! Using - Custom Property Binding @Input
+
+  Example:
+  Child Component (product.component.ts)
+    @Input()
+    product: {} = {};
+
+  Parent Component (product-list.component.html)
+    <app-product *ngFor="let prod of products" [product]="prod"></app-product>
