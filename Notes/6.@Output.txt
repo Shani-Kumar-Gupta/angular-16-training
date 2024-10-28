@@ -1,0 +1,14 @@
+@Output() & Custom Event Binding:
+  - What if we want to pass some data from child to it's Parent
+  - Passing data from Child component to Parent component
+
+  Child Component (product.component.ts):
+
+  eventName EventEmitter<atring> = new EventEmitter<string>();
+
+  onChnageEvent() {
+    this.eventName.emit(data);
+  }
+
+  Parent Component (product.component.html):
+    <app-product (eventName)="($event) => {}"></app-product>
